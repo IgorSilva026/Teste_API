@@ -1,0 +1,23 @@
+{
+  "name": "apitesteget",
+  "version": "1.0.0",
+  "description": "logar no github\r criar um novo repositório\r - digitar nome\r - ativar o README\r - e selecionar o gitignore como: NODE",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Afonso-Lagedo/apiTesteGet.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Afonso-Lagedo/apiTesteGet/issues"
+  },
+  "homepage": "https://github.com/Afonso-Lagedo/apiTesteGet#readme",
+  "dependencies": {
+    "express": "^5.2.1"
+  }
+}
