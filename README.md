@@ -82,3 +82,12 @@ Clonar o projeto!
 no terminal: npm i 
 
 e seguir as demais etapas já descritas
+
+# Branch
+
+1)Criar uma Branch
+EX: 'dev' 
+
+2)No terminal: 
+- git fetch
+- git checkout 'dev'
