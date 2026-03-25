@@ -91,3 +91,11 @@ EX: 'dev'
 2)No terminal: 
 - git fetch
 - git checkout 'dev'
+
+# pull request
+
+1) Clicar no botão 'Compare & pull request' que aparece no github
+2) Clicar em new pull request
+3) Clicar em 'Create pull request' OBS: se quiser colocar um comentário, pode colocar no campo de texto
+4) Clicar em 'Merge pull request' para juntar a branch 'dev' com a 'main'
+5) Clicar em 'Confirm merge'
